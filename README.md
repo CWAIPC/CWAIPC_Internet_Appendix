@@ -1,15 +1,9 @@
 # Internet Appendix
 
-**Paper:** Displacement vs. Augmentation: Evidence from AI-Driven Innovation
-
-**Authors:** Joanna Wang, Zed
-
----
-
-The internet appendix for this paper will be linked here once the PDF is available.
+Chen, M.A. and Wang, J. (2026). Displacement Versus Augmentation: The Effects of AI on Employment Dynamics and Firm Value. Working paper. Available at SSRN: https://ssrn.com/abstract=5246388
 
 <!-- PDF_LINK_PLACEHOLDER -->
 
 ---
 
-*This repository is private and intended for co-author and referee access only.*
+*This repository is private only at this time.*
